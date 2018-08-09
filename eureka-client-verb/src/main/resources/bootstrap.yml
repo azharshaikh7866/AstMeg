@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: eureka-client-verb
+  profiles:
+    active:
+    - verb
+    
+  cloud:
+    config:
+      uri:
+      - http://localhost:8000

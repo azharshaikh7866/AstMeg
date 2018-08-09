@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/azharshaikh7866/configData
+server:
+  port: 8000
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

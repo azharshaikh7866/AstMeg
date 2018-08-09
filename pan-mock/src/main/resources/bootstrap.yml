@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: pan-mock
+  profiles:
+    active:
+    - reliance
+    
+  cloud:
+    config:
+      uri:
+      - http://localhost:8000
+      
+server:
+  port: 8001

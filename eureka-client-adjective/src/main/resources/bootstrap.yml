@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: eureka-client-adjective
+  profiles:
+    active:
+    - adjective
+  cloud:
+    config:
+      uri:
+      - http://localhost:8000
