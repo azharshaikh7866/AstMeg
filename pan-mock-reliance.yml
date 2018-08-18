@@ -9,3 +9,8 @@ pandata:
     title: Mr.
     status: Success
     lastUpdatedOn: 23/12/1992
+    
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8003/eureka/
