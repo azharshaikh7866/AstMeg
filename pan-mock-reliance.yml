@@ -1,2 +1,11 @@
 wordConfig:
     panids: asdasdasd,jimlikkd
+
+panDummyData:
+    pan: ESZPS2
+    firstName: Azhar
+    lastName: Shaikh
+    middleName: Ashraf
+    title: Mr.
+    status: Success
+    lastUpdatedOn: 23/12/1992
