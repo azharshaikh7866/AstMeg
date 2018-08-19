@@ -26,4 +26,26 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog 
+words: boat,book,vote,seat,backpack,partition,groundhog
+aadhaarnos: 123456789012,745865891452,325612548547,256385471254
+aadhaar:
+  aadhaarno: 835113472986
+  firstName: Azhar
+  lastName: Shaikh
+  middleName: Ashraf
+  mobile: This has been removed since Aadhaar 2.1
+  email: This has been removed since Aadhaar 2.1
+  gender: Male
+  dateofbirth: 23/12/1992
+  careof: Ashraf Shaikh
+  building: Parcel Depot Grant Road
+  landmark: Grant Road Station
+  street: Ali Bhai Premji Marg
+  locality: Grant Road
+  poname: Grant Road
+  villagetowncity: Mumbai
+  subdist: Mumbai
+  dist: Mumbai
+  state: Maharashtra
+  pincode: 400007
+  status: Success
