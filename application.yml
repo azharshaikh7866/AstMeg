@@ -26,7 +26,7 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: azhar,shiji
 aadhaarnos: 123456789012,745865891452,325612548547,256385471254
 aadhaar:
   aadhaarno: 835113472986
